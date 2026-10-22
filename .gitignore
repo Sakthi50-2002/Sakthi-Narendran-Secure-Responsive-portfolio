@@ -1,0 +1,7 @@
+.env
+portfolio.db
+__pycache__/
+*.db
+backup_*.db
+*.csv
+*.pyc
